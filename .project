@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>studentB_e201713005</name>
+=======
 	<name>e201713005</name>
+>>>>>>> 5c5f5bc4e9a29608dcb883846767d6ea134b7bb0
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,6 +18,8 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+<<<<<<< HEAD
+=======
 	<filteredResources>
 		<filter>
 			<id>1664177557514</id>
@@ -25,4 +31,5 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+>>>>>>> 5c5f5bc4e9a29608dcb883846767d6ea134b7bb0
 </projectDescription>
